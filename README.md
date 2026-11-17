@@ -14,7 +14,7 @@
 | OS | Windows 11 (64-bit) |
 | Ngôn ngữ | Java 21 (OpenJDK / Oracle JDK) |
 | JVM flags | `-Xmx768m` |
-| Ngày đo | 17/11/2026 |
+| Ngày đo | 11/11/2026 |
 
 ---
 
