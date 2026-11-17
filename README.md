@@ -235,4 +235,3 @@ Tôi đã sử dụng Antigravity (AI assistant) để hỗ trợ:
 - **Code review**: AI đề xuất thêm tối ưu "already-sorted check" và tách `insertionSort` ra để dùng riêng.
 - **Phần tôi tự viết**: logic `sort()`, `merge()`, `insertionSort()`, phân tích kết quả.
 
-*Log đầy đủ có thể xuất từ cuộc hội thoại với Antigravity.*
